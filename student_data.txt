@@ -1,0 +1,6 @@
+6214,rohini,90.2
+GRADE,english,85.0
+GRADE,qalr,93.0
+GRADE,c,79.0
+GRADE,maths,98.0
+GRADE,ds,96.0
