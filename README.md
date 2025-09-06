@@ -82,8 +82,3 @@ StudentGradeManagementSystem/
 ├── student_data.txt                   # Data storage file (auto-generated)
 └── README.md                          # Project documentation
 ```
-
-4. **Replace** placeholder text like `your-username` with your actual GitHub username
-5. **Save** the file and upload it to GitHub along with your Java code
-
-This README will make your project look professional and help anyone who comes across your repository understand what your project does and how to use it.
